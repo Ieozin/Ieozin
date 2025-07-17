@@ -11,6 +11,11 @@ Sou um profissional em transição de carreira para a área de Tecnologia, com *
 
 Meu foco é a **automação de testes de UI, API e Performance**, buscando garantir a qualidade e robustez de produtos digitais. Tenho experiência prática na criação de esteiras de testes completas com Integração Contínua (CI/CD), aplicando minhas habilidades analíticas para entregar soluções eficientes.
 
+<!-- Animação da Cobra movida para uma posição de mais destaque -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ieozin/Ieozin/output/snake-dark.svg" alt="Snake animation" />
+</p>
+
 ---
 
 ### 💻 Tecnologias e Ferramentas
@@ -51,12 +56,10 @@ Meu foco é a **automação de testes de UI, API e Performance**, buscando garan
 ---
 ### 📊 Minhas Estatísticas no GitHub
 
+<!-- Gráfico grande removido para um layout mais limpo -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ieozin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ieozin&layout=compact&langs_count=7&theme=dark"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ieozin&theme=dark" alt="Gráfico de Atividade"/>
 </p>
 
 ---
@@ -64,9 +67,3 @@ Meu foco é a **automação de testes de UI, API e Performance**, buscando garan
 
 - **E-mail:** [leonardomartinslm9090@gmail.com](mailto:leonardomartinslm9090@gmail.com)
 - **Localização:** Petrópolis, Rio de Janeiro.
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ieozin/Ieozin/output/snake-dark.svg" alt="Snake animation" />
-</p>
