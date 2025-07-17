@@ -1,40 +1,56 @@
-# Olá, eu sou Leonardo Martins!
+### 👋 Olá, eu sou Leonardo Martins!
 
-Bem-vindo ao meu perfil GitHub!
+<a href="https://www.linkedin.com/in/leonardo-martins-059356322" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-Sou um profissional em transição para a área de Qualidade de Software (QA) e estou cursando QA na EBAC. Tenho experiência em faturamento, logística e atendimento ao cliente, o que me proporcionou uma visão analítica e detalhista. Atualmente, foco em aprimorar minhas habilidades em testes manuais e automatizados, utilizando metodologias ágeis e ferramentas como JIRA, Selenium e Postman.
+Sou um profissional em transição de carreira para a área de Tecnologia, com **formação especializada em Engenharia de Qualidade de Software pela EBAC** e atualmente cursando **Ciência da Computação**.
 
+Meu foco é a **automação de testes de UI, API e Performance**, buscando garantir a qualidade e robustez de produtos digitais. Tenho experiência prática na criação de esteiras de testes completas com Integração Contínua (CI/CD), aplicando minhas habilidades analíticas para entregar soluções eficientes.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Ieozin&show_icons=true&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5" />
-</a>
+---
 
+### 💻 Tecnologias e Ferramentas
 
-## Sobre Mim
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs"/>
+  </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  </a>
+  <a href="https://k6.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/K6-8C54C8?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/>
+  </a>
+   <a href="https://www.npmjs.com/package/supertest" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Supertest-323330?style=for-the-badge&logo=supertest&logoColor=white" alt="Supertest"/>
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+  </a>
+</p>
 
-- **Nome:** Leonardo Martins  
-- **Idade:** 22 anos  
-- **Local:** Pedro do Rio, Petrópolis/RJ  
+---
+
+### 🚀 Projetos em Destaque
+
+➡️ **[Projeto de Testes para E-commerce - EBAC](https://github.com/Ieozin/TCC-EBAC-QE)**
+- **Descrição:** Estratégia de testes completa para uma aplicação de e-commerce.
+- **Testes End-to-End (UI):** `Cypress`
+- **Testes de API:** `Supertest`
+- **Testes de Performance:** `K6`
+- **CI/CD:** Pipeline configurado com `GitHub Actions` para automação da execução dos testes.
+
+---
+
+### 📫 Como me encontrar:
+
 - **E-mail:** [leonardomartinslm9090@gmail.com](mailto:leonardomartinslm9090@gmail.com)
-
-## Principais Competências
-
-- Testes Manuais e Automatizados  
-- Metodologias Ágeis (Scrum)  
-- Ferramentas de Gestão (JIRA, Trello)  
-- Análise de Dados (Excel)  
-- Comunicação e Trabalho em Equipe
-
-## Projetos
-
-Explore meus repositórios para ver projetos práticos e contribuições na área de QA, demonstrando a aplicação dos conhecimentos adquiridos e o meu compromisso com a melhoria contínua.
-
-## Contato
-
-- [LinkedIn](https://linkedin.com/in/leonardo-martins-059356322)  
-- [GitHub](https://github.com/Ieozin)
-
-Sinta-se à vontade para entrar em contato ou colaborar em projetos!
+- **Localização:** Petrópolis, Rio de Janeiro.
