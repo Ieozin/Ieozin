@@ -51,7 +51,12 @@ Meu foco é a **automação de testes de UI, API e Performance**, buscando garan
 
 ### 🚀 Projeto em Destaque
 
+
 [![Card do Projeto de Testes EBAC](https://github-readme-stats.vercel.app/api/pin/?username=Ieozin&repo=TCC-EBAC-QE&theme=dark&show_owner=true)](https://github.com/Ieozin/TCC-EBAC-QE)
+
+
+[![Card dos Estudos de Ciência da Computação](https://github-readme-stats.vercel.app/api/pin/?username=Ieozin&repo=estudos-ciencia-da-computacao&theme=dark&show_owner=true)](https://github.com/Ieozin/estudos-ciencia-da-computacao)
+
 
 ---
 ### 📊 Minhas Estatísticas no GitHub
